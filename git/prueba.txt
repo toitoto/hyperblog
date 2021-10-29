@@ -1,3 +1,8 @@
 Esta será una prueba de la clase de Git bash.
 
-Estoy arreglando esta parte, para aumentar esta palabra
+Estuve arreglando esta parte, para aumentar esta palabra.
+
+Esta linea es nueva
+
+claro agregamos mas.....
+
